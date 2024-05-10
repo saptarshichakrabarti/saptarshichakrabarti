@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My GitHub has two primary uses:
+- My private repositories are codes I cannot tell you about as they are most likely:
+  - part of confidential projects that I have undertaken either as a freelancer or my reseacrch projects which are still in progress
+  - are coursework codes that I do not want to get flagged for self-plagiarism
+- My public repositories are showcases for potential employers/professors who would like have me on their research team
 <!--
 **saptarshichakrabarti/saptarshichakrabarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
