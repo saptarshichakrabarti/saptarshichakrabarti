@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+WIP
+<!--
 My GitHub has two primary uses:
 - My public repositories are showcases for potential employers/professors who would like to have me on their research team
 - My private repositories are codes I cannot tell you about as they are most likely:
@@ -34,7 +36,7 @@ My GitHub has two primary uses:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshichakrabarti&count_private=true&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saptarshichakrabarti)
-<!--
+
 **saptarshichakrabarti/saptarshichakrabarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
